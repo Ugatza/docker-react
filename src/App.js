@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Aupa <code>Ugatza2</code> :o)
+          HDF <code>GCA Docker</code> :o)
         </p>
         <a
           className="App-link"
@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          heeeyyy !!
+          Hello There !!!
         </a>
       </header>
     </div>
